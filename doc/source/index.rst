@@ -17,6 +17,10 @@ but also to cover the following topics:
 
 **Source code:** https://github.com/nghia-vo/sarepy
 
+**Author:** Nghia Vo, Diamond Light Source.
+
+**Keywords:** ring artifact removal, tomography, stripe artifacts, tutorial.
+
 Table of Contents
 =================
 
