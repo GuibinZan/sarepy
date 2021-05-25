@@ -1,6 +1,6 @@
 # Sarepy
 (S)tripe (A)rtifacts (RE)moval in (PY)thon
-## Numerical techniques for eliminating ring artifacts in X-ray micro-tomography
+## Numerical techniques for ring artifact removal in X-ray micro-tomography
 
 **Sarepy** is the Python implementations of methods used for removing ring artifacts in tomography.
  These methods work in sinogram space where artifacts appear as straight lines or stripe artifacts.
@@ -15,6 +15,13 @@ Nghia Vo - *Diamond Light Source*
 #### Contributors:
 
 Daniel S. Hussey - *NIST: National Institute of Standards and Technology* 
+
+Importance notice:
+------------------
+Starting 05/2021, methods in **Sarepy** have been integrated and developed further in
+the **Algotom** package, https://github.com/algotom/algotom . Algotom is a
+complete software package for processing tomographic reconstruction. It is
+installable using Conda and Pip.
 
 How to use
 ==========

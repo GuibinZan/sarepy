@@ -11,8 +11,7 @@ but also to cover the following topics:
 
 - Causes of ring artifacts.
 - Classification of ring artifacts.
-- How ring removal methods work; pros and cons of each method; how to use them
-  efficiently; and how to improve them.
+- How ring removal methods work; pros and cons of each method; how to use them efficiently; and how to improve them.
 - Applications of the methods.
 
 **Source code:** https://github.com/nghia-vo/sarepy
@@ -20,6 +19,13 @@ but also to cover the following topics:
 **Author:** Nghia Vo, Diamond Light Source.
 
 **Keywords:** ring artifact removal, tomography, stripe artifacts, tutorial.
+
+*Importance notice:*
+--------------------
+Starting 05/2021, methods in **Sarepy** have been integrated and developed further in
+the **Algotom** package, https://github.com/algotom/algotom . Algotom is a
+complete software package for processing tomographic reconstruction. It is
+installable using Conda and Pip.
 
 Table of Contents
 =================
@@ -32,9 +38,12 @@ Table of Contents
     toc/section2
     toc/section3
     toc/section4
+    toc/section5
 
 References
 ==========
+
+.. _references:
 
 1. Nghia T. Vo, Robert C. Atwood, and Michael Drakopoulos, "Superior
    techniques for eliminating ring artifacts in X-ray micro-tomography," Optics
